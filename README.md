@@ -3,4 +3,4 @@ Working through the "Code! Programming with p5.js" YouTube tutorial, by Dan Shif
 
 [Link to YouTube playlist.](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 
-COMING UP: [2.5: The random() Function - p5.js Tutorial](https://www.youtube.com/watch?v=nfmV2kuQKwA&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=11)
+COMING UP: [3.1: Introduction to Conditional Statements - p5.js Tutorial](https://www.youtube.com/watch?v=1Osb_iGDdjk&index=13&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
